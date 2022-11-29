@@ -7,4 +7,7 @@ streamlit.text('🥨 Some fresh bread')
 streamlit.text('🧀 Some cheese')
 streamlit.text('🥓 Crispy bacon')
 
+streamlit.title('🍌🍉Build Your Own Smoothie🍇🍓')
+
+
 
