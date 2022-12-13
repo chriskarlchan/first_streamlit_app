@@ -1,6 +1,7 @@
 import streamlit
 import pandas
 import requests
+import snowflake.connector #Reads requirements from a file
 
 streamlit.title('My Parents New Healthy Dinner is Soup')
 
